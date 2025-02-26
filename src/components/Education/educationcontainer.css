@@ -1,0 +1,29 @@
+.educationcontainer{
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin:0 200px 0 200px;
+    
+}
+
+.educationcontainer__content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    margin-top: 30px;
+    gap:20px;
+
+}
+
+.educationcontainer__content{
+    background: url(https://www.sathyabama.ac.in/sites/default/files/inline-images/DJI_0105-New-Low.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow:inset 0 0 0 2000px rgba(0,0,0,0.3);
+    width: 100vh;
+    height: 300px;
+}
