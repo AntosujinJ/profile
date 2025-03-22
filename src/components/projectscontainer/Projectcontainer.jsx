@@ -18,6 +18,12 @@ const Projectcontainer = () => {
             img:"https://superdevresources.com/wp-content/uploads/2014/02/Weather-Api.jpg",
             desc:"A dynamic weather application built with React, HTML, and CSS, utilizing a weather API to provide real-time forecasts.",
             link:"https://antosujinj.github.io/weather/"
+        },
+     {
+            title:"Gemini-Clone using React",
+            img:"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_open_graph_1.width-1300.png",
+            desc:"React app displaying real-time weather forecasts by city, using an external API. ",
+            link:"https://antosujinj.github.io/gemini-clone/"
         }
 
     ]
